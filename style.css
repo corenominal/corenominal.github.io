@@ -1,6 +1,15 @@
 body {
 	background: #232729;
 	color: #fff;
+	text-align: center;
+}
+
+h1 {
+	display: none;
+}
+
+svg {
+	margin-top: 120px;
 }
 
 a {
